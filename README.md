@@ -1,82 +1,73 @@
-<h1 align="center">Hi 👋, I'm Dilip Chowdary Sangapu</h1>
-<h3 align="center">Aspiring Java Full Stack Developer</h3>
+<h1 align="center">Hey there 👋, I'm Dilip Chowdary Sangapu</h1>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer | Passionate Problem Solver</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dilipsangapu&label=Profile%20views&color=0e75b6&style=flat" alt="Dilipsangapu" />
 </p>
 
+---
+
+### 🌟 About Me
+- 🎯 I'm passionate about building full-stack web applications with intuitive UIs and scalable backend logic.
+- 🌱 Currently leveling up with modern technologies and design patterns in **Java**, **Spring Boot**, **React**, and more.
+- 💡 I enjoy solving DSA problems and continuously learning new tools and frameworks.
+- 👨‍💻 All my projects are available on my [GitHub Portfolio](https://github.com/Dilipsangapu).
+
+---
+
+### 📬 Connect With Me
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu" alt="Dilipsangapu" />
+  <a href="https://www.linkedin.com/in/dilip-chowdary-s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/dilip2003chowda1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/dilipchowdarys/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/dilipsangapu" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge" alt="CodeChef" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **new technologies to strengthen my problem-solving and full-stack development skills.**
+---
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Dilipsangapu)
-
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Technologies & Tools
 <p align="left">
-  <a href="https://www.linkedin.com/in/dilip-chowdary-s/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/dilip2003chowda1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/dilipchowdarys/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-
-  <a href="https://www.codechef.com/users/dilipsangapu" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Programming" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/>
-  </a>
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=radical&no-bg=true&margin-w=15&row=1" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilipsangapu&show_icons=true&locale=en&layout=compact" alt="Dilipsangapu" />
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dilipsangapu&show_icons=true&theme=github_dark" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilipsangapu&theme=dark" alt="streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilipsangapu&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilipsangapu&show_icons=true&locale=en" alt="Dilipsangapu" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilipsangapu" alt="Dilipsangapu" />
-</p>
+### 🚀 Let's Build Together!
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+Let's connect and grow together in this amazing developer journey!
