@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dilip Chowdary Sangapu</h1>
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
+<p align="center">
+  <a href="https://dilip-portfolio07.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify" />
+  </a>
+  <a href="https://drive.google.com/file/d/1_3ag5_WPbGGEDQH-uzcURbh5feNf7bMc/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-Download-blue?style=for-the-badge&logo=google-drive" />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Dilipsangapu&label=Profile%20views&color=0e75b6&style=flat" alt="Dilipsangapu" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu" alt="Dilipsangapu" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu" alt="Dilipsangapu" />
 </p>
 
 - 🌱 I’m currently learning **new technologies to strengthen my problem-solving and full-stack development skills.**
@@ -26,7 +33,6 @@
   <a href="https://leetcode.com/u/dilipchowdarys/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-
   <a href="https://www.codechef.com/users/dilipsangapu" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
