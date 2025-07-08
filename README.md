@@ -1,109 +1,110 @@
+
 <h1 align="center">🎬 Dilip Chowdary Sangapu</h1>
-<h3 align="center">Java Full Stack Developer | Code Enthusiast | Problem Solver</h3>
+<h3 align="center">Java Full Stack Developer | Code Crafter | UI Thinker</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dilipsangapu&label=Profile%20views&color=0e75b6&style=flat" alt="Dilipsangapu" />
 </p>
 
 <p align="center">
-  💡 Turning ideas into reality through clean code, modern tech, and relentless curiosity.
+  <i>"From ideas to execution — I build interactive, real-time applications that make an impact."</i>
 </p>
 
 ---
 
-### 🎞️ Director's Cut: My Story in Tech
+## 🔗 My Links
 
-From crafting simple HTML pages to building robust full-stack applications, I’ve grown into a developer who not only solves problems but designs experiences.  
-Whether it’s backend logic with Java + Spring Boot or creating seamless front-end interactions — I build with **clarity**, **performance**, and **purpose**.
-
----
-
-### 🚀 What I'm Working On
-- 🔐 Building secure apps with Spring Security & JWT
-- ⚙️ Architecting scalable backends with Microservices
-- 🧠 Strengthening ReactJS & API integration
-- 🔄 Automating dev workflows with Git & Docker
-
----
-
-### 🔗 Explore More
-| Type | Link |
-|------|------|
-| 🌐 **Portfolio Website** | [Visit Portfolio](https://dilip-portfolio07.netlify.app/) |
-| 📄 **Resume** | [View Resume](https://drive.google.com/file/d/1_3ag5_WPbGGEDQH-uzcURbh5feNf7bMc/view?usp=drive_link) |
-
----
-
-### 💼 Featured Projects
-| 🚀 Project | 🌟 Description |
-|-----------|----------------|
-| 🚌 [Online Bus Booking App](https://github.com/Dilipsangapu/onlinebus) | Real-time booking system with seat layouts, schedules & agent dashboard |
-| 💊 Patient Medication Tracker | Schedule & monitor medication timings for patients using Spring Boot |
-| 📊 Student Results Dashboard | Upload, filter, and view student mark sheets with an admin interface |
-
----
-
-### 🧰 Toolbox: Languages & Frameworks
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
+  <a href="https://dilip-portfolio07.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify" />
+  </a>
+  <a href="https://drive.google.com/file/d/1_3ag5_WPbGGEDQH-uzcURbh5feNf7bMc/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Resume-View-blue?style=for-the-badge&logo=google-drive" />
+  </a>
 </p>
 
 ---
 
-### 🧠 Currently Sharpening
-- Spring Cloud, Docker & Deployment
-- System Design Basics
-- RESTful API Testing
-- DSA on LeetCode & CodeChef
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,bootstrap,mongodb,mysql,git" />
+</p>
 
 ---
 
-### 📈 Stats & Activity
+## 🧠 Learning & Growing
+
+```diff
++ 🔐 Spring Security, JWT
++ ⚛️ ReactJS and Component Design
++ 🐳 Docker & Deployment Workflows
++ 📈 System Design & Clean Code Practices
+```
+
+---
+
+## 🎯 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Dilipsangapu/onlinebus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilipsangapu&repo=onlinebus&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  💊 Patient Medication Tracker – Spring Boot, Thymeleaf  
+  📊 Student Results Dashboard – Admin Panel using JS + Bootstrap  
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilipsangapu&show_icons=true&theme=tokyonight" />
-  <br/>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilipsangapu&theme=tokyonight" />
-  <br/>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilipsangapu&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophy Wall
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=dracula&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=gruvbox&row=1&no-frame=true" />
 </p>
 
 ---
 
-### 📬 Let’s Connect!
-<p align="left">
+## 📬 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/dilip-chowdary-s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/dilip2003chowda1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/dilipchowdarys/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/dilip2003chowda1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
   <a href="https://www.codechef.com/users/dilipsangapu" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" />
   </a>
 </p>
 
 ---
 
-### 🎯 Final Words
-> “The best way to predict the future is to invent it.” – Alan Kay  
-Let’s build meaningful things together. Feel free to connect or collaborate!
+## 🔥 GitHub Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dilipsangapu/Dilipsangapu/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
+---
+
+## 📝 Quote I Live By
+<p align="center">
+  <i>“The best way to learn is by doing — and failing fast enough to learn even faster.”</i>
+</p>
