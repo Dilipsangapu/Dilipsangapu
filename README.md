@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=netlify" />
   </a>
   <a href="https://drive.google.com/file/d/1_3ag5_WPbGGEDQH-uzcURbh5feNf7bMc/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Resume-Download-blue?style=for-the-badge&logo=google-drive" />
+   <img src="https://img.shields.io/badge/📄 Resume-View-blue?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
 
