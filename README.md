@@ -18,7 +18,7 @@
   <a href="https://dilip-portfolio07.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1_3ag5_WPbGGEDQH-uzcURbh5feNf7bMc/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1XAD9wJ5I_dBjMoLt2DAoO8TvvXuxbuEm/view?usp=drive_link">
     <img src="https://img.shields.io/badge/📄_Resume-Download-4ECDC4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://github.com/Dilipsangapu" target="_blank">
