@@ -8,9 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe!+🌟;Full+Stack+Developer+%7C+Java+Expert;Spring+Boot+%7C+MySQL+%7C+JavaScript;Transforming+Ideas+into+Reality;Building+Tomorrow's+Applications+Today!" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
+
 
 ---
 
