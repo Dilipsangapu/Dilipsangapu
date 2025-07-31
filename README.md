@@ -6,7 +6,7 @@
 
 ### 🚀 Passionate Java Full Stack Developer | Innovation Seeker | Code Craftsman
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe!+🌟;Full+Stack+Developer+%7C+Java+Expert;React+%7C+Spring+Boot+%7C+MySQL;Transforming+Ideas+into+Reality;Building+Tomorrow's+Applications+Today!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe!+🌟;Full+Stack+Developer+%7C+Java+Expert;Spring+Boot+%7C+MySQL+%7C+JavaScript;Transforming+Ideas+into+Reality;Building+Tomorrow's+Applications+Today!" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -102,16 +102,16 @@ const dilip = {
     role: "Full Stack Developer",
     location: "India 🇮🇳",
     languages: ["Java", "JavaScript", "C", "HTML", "CSS"],
-    frameworks: ["Spring Boot", "Bootstrap", "React"],
+    frameworks: ["Spring Boot", "Bootstrap"],
     databases: ["MySQL", "MongoDB"],
     tools: ["Git", "VS Code", "IntelliJ IDEA"],
-    currentFocus: "Building scalable web applications",
+    currentFocus: "Advanced Spring Boot & Microservices",
     lifePhilosophy: "Code with passion, learn continuously! 💫"
 };
 ```
 
 - 🔭 Currently working on **Full Stack Web Development Projects**
-- 🌱 Learning **React.js, Node.js & Advanced Spring Boot**
+- 🌱 Learning **Advanced Spring Boot, Microservices & REST APIs**
 - 💡 Passionate about **Problem Solving & Clean Code**
 - 🎯 Goal: **Become a proficient Full Stack Developer**
 - ⚡ Fun fact: **I debug code faster than I fix my sleep schedule! 😄**
@@ -129,7 +129,7 @@ const dilip = {
 
 ### **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,bootstrap,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap" />
 </p>
 
 ### **Databases & Tools**
@@ -139,7 +139,7 @@ const dilip = {
 
 ### **Currently Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=spring,docker,aws,postman" />
 </p>
 
 </div>
@@ -178,27 +178,31 @@ const dilip = {
 
 ### 🌍 **Find Me Across The Digital Universe**
 
-<a href="https://www.linkedin.com/in/dilip-chowdary-s/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/dilip-chowdary-s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="https://leetcode.com/u/dilipchowdarys/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/dilipchowdarys/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/dilip2003chowda1" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-Challenge_Me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" />
-</a>
-
-<a href="https://www.codechef.com/users/dilipsangapu" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-Compete_Together-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
-</a>
+<p>
+  <a href="https://www.hackerrank.com/profile/dilip2003chowda1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Challenge_Me-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" />
+  </a>
+  <a href="https://www.codechef.com/users/dilipsangapu" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Compete_Together-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=5B4638" />
+  </a>
+</p>
 
 ### 📬 **Let's Build Something Amazing Together!**
 
-<a href="mailto:dilip2003chowdary@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
+<p>
+  <a href="mailto:dilip2003chowdary@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+</p>
 
 ### 💡 **Open for:**
 - 🤝 Collaboration on exciting projects
@@ -216,20 +220,22 @@ const dilip = {
 
 ### 🚀 **Current Focus Areas**
 
-<p>
-  <img src="https://img.shields.io/badge/🔥_Master_React_&_Node.js-In_Progress-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡_LeetCode_Journey-50+_Problems-success?style=for-the-badge" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/🔥_Advanced_Spring_Boot-In_Progress-orange?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_LeetCode_Journey-50+_Problems-success?style=for-the-badge" />
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/💼_Full_Stack_Developer-Job_Ready-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌟_Portfolio_Projects-Building-purple?style=for-the-badge" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/🏗️_Microservices_Architecture-Learning-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌟_Portfolio_Projects-Building-purple?style=for-the-badge" />
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/📚_Open_Source-Contributing-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎓_Continuous_Learning-Always_On-yellow?style=for-the-badge" />
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/📚_Open_Source-Contributing-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_Continuous_Learning-Always_On-yellow?style=for-the-badge" />
+  </p>
+</div>
 
 </div>
 
