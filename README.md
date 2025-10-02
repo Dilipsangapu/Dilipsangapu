@@ -62,11 +62,7 @@
 <br><strong>Database Pro</strong>
 <br><sub>SQL & NoSQL</sub>
 </td>
-<td align="center" width="200px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-<br><strong>JS Developer</strong>
-<br><sub>Frontend & Logic</sub>
-</td>
+
 </tr>
 </table>
 
