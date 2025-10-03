@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-### 🚀 Passionate Java Full Stack Developer | Innovation Seeker | Code Craftsman
+### 🚀 Passionate Java Full Stack Developer | Innovation Seeker | Code Craftsman | Backend Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe!+🌟;Full+Stack+Developer+%7C+Java+Expert;Spring+Boot+%7C+MySQL+%7C+JavaScript;Transforming+Ideas+into+Reality;Building+Tomorrow's+Applications+Today!" alt="Typing SVG" />
 
