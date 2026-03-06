@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=700&lines=Welcome+to+my+Digital+Universe!+🌟;Full+Stack+Developer+%7C+Java+Expert;Spring+Boot+%7C+MySQL+%7C+JavaScript;Transforming+Ideas+into+Reality;Building+Tomorrow's+Applications+Today!" alt="Typing SVG" />
 
-
-
 ---
 
 ### 🌐 **Quick Links**
@@ -38,13 +36,14 @@
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</picture>
 
 ### 🎯 **Coding Journey Highlights**
 
-<div align="center">
-  
 <table>
 <tr>
 <td align="center" width="200px">
@@ -62,11 +61,8 @@
 <br><strong>Database Pro</strong>
 <br><sub>SQL & NoSQL</sub>
 </td>
-
 </tr>
 </table>
-
-</div>
 
 ### 🌟 **Platform Achievements**
 
@@ -143,7 +139,7 @@ const dilip = {
 ## 📊 **GitHub Analytics & Insights**
 
 <div align="center">
-  
+
 ### 📈 **Performance Dashboard**
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dilipsangapu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9"/>
@@ -200,7 +196,7 @@ const dilip = {
 
 ### 💡 **Open for:**
 - 🤝 Collaboration on exciting projects
-- 💼 Full-time opportunities  
+- 💼 Full-time opportunities
 - 🎓 Mentorship and learning
 - 🚀 Open source contributions
 
@@ -214,29 +210,27 @@ const dilip = {
 
 ### 🚀 **Current Focus Areas**
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/🔥_Advanced_Spring_Boot-In_Progress-orange?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚡_LeetCode_Journey-50+_Problems-success?style=for-the-badge" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/🔥_Advanced_Spring_Boot-In_Progress-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_LeetCode_Journey-50+_Problems-success?style=for-the-badge" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/🏗️_Microservices_Architecture-Learning-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🌟_Portfolio_Projects-Building-purple?style=for-the-badge" />
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/🏗️_Microservices_Architecture-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌟_Portfolio_Projects-Building-purple?style=for-the-badge" />
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/📚_Open_Source-Contributing-brightgreen?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎓_Continuous_Learning-Always_On-yellow?style=for-the-badge" />
-  </p>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/📚_Open_Source-Contributing-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_Continuous_Learning-Always_On-yellow?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### 💫 **"First, solve the problem. Then, write the code."** - Dilip
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
