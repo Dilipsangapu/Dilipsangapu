@@ -37,10 +37,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=flat&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilipsangapu&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilipsangapu&theme=radical&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilipsangapu&theme=radical" width="32%"/>
 
 ### 🎯 **Coding Journey Highlights**
 
