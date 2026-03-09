@@ -37,6 +37,12 @@
 
 <div align="center">
 
+### 🏆 **GitHub Trophies**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dilipsangapu&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+</p>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilipsangapu&theme=radical" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilipsangapu&theme=radical&utcOffset=5.5" width="32%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilipsangapu&theme=radical" width="32%"/>
